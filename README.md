@@ -9,6 +9,7 @@ https://www.omdbapi.com/apikey.aspx
 ```bash
 git clone https://github.com/nbayapu7/omdbapi-python.git
 ```
+
 3) Instructions to use python script, example:
 - Help Message
 ```bash
@@ -28,6 +29,5 @@ root@bf94f5d524c8:~# python omdbapi.py -t "speed"
 
 
 
- 
  
  

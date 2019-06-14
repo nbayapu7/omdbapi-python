@@ -1,6 +1,6 @@
 from omdb import OMDBClient
 import sys, getopt, os
-import json
+
 
 
 def help():
@@ -68,6 +68,5 @@ def main(argv):
             print (json.dumps(title, ensure_ascii=True, indent=4))
 
 
-            
 if __name__ == "__main__":
     main(sys.argv[1:])
